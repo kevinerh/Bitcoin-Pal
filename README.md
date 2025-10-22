@@ -6,8 +6,6 @@ Bitcoin Pal is your go to companion for understanding Bitcoin’s price movement
 
 The app blends real time Bitcoin data with easy to grasp lessons, showing you how popular indicators like RSI, MACD, and EMA are used by traders to spot opportunities and market shifts.
 
-![banner](https://github.com/kevinerh/Bitcoin-Pal/blob/main/btc1.png)
-
 🌟 Key Features
 
 ⚡ Real time Bitcoin Insights – Stay updated with the latest price, volume, and market cap data.
@@ -28,4 +26,4 @@ The app blends real time Bitcoin data with easy to grasp lessons, showing you ho
 
 📥 Download
 
-Click this link To Download 👇
+You can check the release section to download
