@@ -28,4 +28,5 @@ The app blends real time Bitcoin data with easy to grasp lessons, showing you ho
 
 📥 Download
 
-You can check the release section to download
+[CLICK HERE TO DOWNLOAD](https://github.com/kevinerh/Bitcoin-Pal/releases/download/Bitcoin-Pal/Bitcoin-Pal.apk)
+
