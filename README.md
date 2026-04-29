@@ -38,5 +38,7 @@ Learn what every metric means, not just what it shows, so you can make more info
 
 📥 Download
 
+Click this link To Download 👇
+
 [CLICK HERE TO DOWNLOAD](https://github.com/kevinerh/Bitcoin-Pal/releases/download/Bitcoin-Pal/Bitcoin-Pal.apk)
 
