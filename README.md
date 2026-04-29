@@ -15,26 +15,19 @@ It is thoughtfully designed for beginners while still offering valuable insights
 
 Key Features
 
-Real Time Bitcoin Tracker
-Track live Bitcoin prices, trading volume, market cap, and other key metrics with accurate, up to date data.
+Real Time Bitcoin Tracker – Track live Bitcoin prices, trading volume, market cap, and other key metrics with accurate, up to date data.
 
-Crypto News & Market Updates
-Stay informed with the latest Bitcoin news and major crypto market events.
+Crypto News & Market Updates – Stay informed with the latest Bitcoin news and major crypto market events.
 
-Interactive Technical Indicators
-Explore live RSI, MACD, ADX, EMA, and other indicators with real time updates and step by step explanations. Understand how each indicator works with simple, beginner friendly guidance.
+Interactive Technical Indicators – Explore live RSI, MACD, ADX, EMA, and other indicators with real time updates and step by step explanations. Understand how each indicator works with simple, beginner friendly guidance.
 
-Top Crypto Movers
-Track the most actively traded cryptocurrencies over the last 24 hours.
+Top Crypto Movers – Track the most actively traded cryptocurrencies over the last 24 hours.
 
-Exchange Tracker
-Explore top Bitcoin exchanges with live trust scores and trading volumes.
+Exchange Tracker – Explore top Bitcoin exchanges with live trust scores and trading volumes.
 
-AI Crypto Assistant
-Ask questions and get instant answers to improve your crypto knowledge.
+AI Crypto Assistant – Ask questions and get instant answers to improve your crypto knowledge.
 
-Understand Market Data
-Learn what every metric means, not just what it shows, so you can make more informed decisions.
+Understand Market Data – Learn what every metric means, not just what it shows, so you can make more informed decisions.
 
 📥 Download
 
